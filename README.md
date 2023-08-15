@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MagicVin
-- 👀 I’m interested in Linux performance tunning and web security.
+- 👀 I’m interested in Linux performance tuning and web security.
 - 🌱 I’m currently learning web security.
 - 💞️ I’m looking to collaborate on linux automated test and linux system maintenance.
 - ✔  Good at Linux Bash scripts and Python3 scripts.  
