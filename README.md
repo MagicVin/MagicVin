@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @MagicVin
-- 👀 I’m interested in System Arch/Security
-- 🌱 I’m currently learning eBPF tech
-- 💞️ I’m looking to collaborate on Linux system auto-test/virtualization
+- 👀 I’m interested in Linux performance tunning and web security.
+- 🌱 I’m currently learning web security.
+- 💞️ I’m looking to collaborate on linux automated test and linux system maintenance.
+- ✔  Good at Linux Bash scripts and Python3 scripts.  
 - 📫 How to reach me v.xin.zhang@gmail.com
 
 <!---
